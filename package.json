@@ -1,6 +1,6 @@
 {
   "name": "@alibaba-aero/vue-cli-plugin-ssr",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Turn your app into an isomorphic SSR app!",
   "author": "Sasan Farrokh",
   "license": "MIT",
